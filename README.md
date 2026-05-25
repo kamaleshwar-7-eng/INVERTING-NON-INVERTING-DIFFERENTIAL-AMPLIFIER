@@ -35,6 +35,7 @@ A circuit that amplifies that amplifies the difference between two input signals
 
 ### PRACTICAL GRAPH
 
+<img width="720" height="845" alt="Inverting" src="https://github.com/user-attachments/assets/1ec9d62f-88f1-4076-a275-0650fd528f75" />
 
 ### INVERING AMPLIFIER
 
@@ -54,6 +55,8 @@ A circuit that amplifies that amplifies the difference between two input signals
 
 ### PRACTICAL GRAPH
 
+<img width="720" height="845" alt="NON inverting" src="https://github.com/user-attachments/assets/862ad4a1-14af-462e-95a1-28981410fed2" />
+
 
 ### NON-INVERING AMPLIFIER
 
@@ -70,6 +73,8 @@ A circuit that amplifies that amplifies the difference between two input signals
 <img width="940" height="401" alt="image" src="https://github.com/user-attachments/assets/9a1a005e-447f-498f-b473-ebf591512669" />
 
 ### PRACTICAL GRAPH
+
+<img width="900" height="587" alt="Differential " src="https://github.com/user-attachments/assets/9e456fca-28bd-467d-8883-057a3399a28c" />
 
 
 ### DIFFERENTIAL  AMPLIFIER
