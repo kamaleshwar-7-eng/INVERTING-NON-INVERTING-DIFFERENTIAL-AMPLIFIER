@@ -35,7 +35,6 @@ A circuit that amplifies that amplifies the difference between two input signals
 
 ### PRACTICAL GRAPH
 
-### CIRCUIT DIAGRAM
 
 ### INVERING AMPLIFIER
 
@@ -43,11 +42,11 @@ A circuit that amplifies that amplifies the difference between two input signals
 <img width="684" height="390" alt="image" src="https://github.com/user-attachments/assets/84b7312f-21eb-4ea4-be4b-45ee9af758fc" />
 
 ### TABULATION
-| S.No | Vin (volts) | Time (ms) | Vo (Theoretical) [V] | Vo (Practical) [V] |
+| S.No | Vin (mV)    | Time (ms) | Vo (Theoretical) [V]  | Vo (Practical) [V] |
 |------|-------------|-----------|-----------------------|---------------------|
-| 1    |             |           |                       |                     |
-| 2    |             |           |                       |                     |
-| 3    |             |           |                       |                     |
+| 1    |    540      |    1       |        -3.59          |    -3.52            |
+| 2    |    600      |     1      |        -3.996         |    -3.92            |
+| 3    |    720      |      1     |        -4.79          |    -4.64            |
 
 
 # MODEL GRAPH
@@ -55,7 +54,6 @@ A circuit that amplifies that amplifies the difference between two input signals
 
 ### PRACTICAL GRAPH
 
-### CIRCUIT DIAGRAM
 
 ### NON-INVERING AMPLIFIER
 
@@ -64,16 +62,15 @@ A circuit that amplifies that amplifies the difference between two input signals
 ### TABULATION
 | S.No | Vin (volts) | Time (ms) | Vo (Theoretical) [V] | Vo (Practical) [V] |
 |------|-------------|-----------|-----------------------|---------------------|
-| 1    |             |           |                       |                     |
-| 2    |             |           |                       |                     |
-| 3    |             |           |                       |                     |
+| 1    |    520m     |    1       |      3.98             |    3.84             |
+| 2    |    600      |     1      |      4.59             |    4.32             |
+| 3    |    720      |      1     |      5.51             |    5.44             |
 
 # MODEL GRAPH
 <img width="940" height="401" alt="image" src="https://github.com/user-attachments/assets/9a1a005e-447f-498f-b473-ebf591512669" />
 
 ### PRACTICAL GRAPH
 
-### CIRCUIT DIAGRAM
 
 ### DIFFERENTIAL  AMPLIFIER
 
@@ -82,9 +79,9 @@ A circuit that amplifies that amplifies the difference between two input signals
 ### TABULATION
 | S.No | V1 (volts) | V2 (volts) | Vo (Theoretical) [V] | Vo (Practical) [V] |
 |------|-------------|-----------|-----------------------|---------------------|
-| 1    |             |           |                       |                     |
-| 2    |             |           |                       |                     |
-| 3    |             |           |                       |                     |
+| 1    |     5       |    3      |        -2             |       -2            |
+| 2    |     2.3     |    5.4    |        3.1            |        3             |
+| 3    |     3       |    8.4    |       5.4                |     5.2                |
 
 
 ### PROCEDURE:
